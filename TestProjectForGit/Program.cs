@@ -10,6 +10,7 @@ namespace TestProjectForGit
         // This is the old boring main method
         static void Main(string[] args)
         {
+            Console.WriteLine("hello");
             Program prog = new Program();
             prog.PrintSomething();
         }
